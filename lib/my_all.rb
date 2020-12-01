@@ -7,4 +7,3 @@ def my_all?(collection)
   end
 end
 
-end
